@@ -1,0 +1,24 @@
+body{
+	background-image:url(back5.jpg);
+	
+	color:white;
+
+
+}
+img{
+	margin-left:400;
+	height:750;
+	width:500;
+}
+.glory{
+	text-align:center;
+	font-weight:500;
+	font-size:100;
+	margin-top:-10;
+}
+.ama1{
+	text-align:center;
+	font-weight:800;
+	font-size:20;
+	margin-top:-60;
+}
