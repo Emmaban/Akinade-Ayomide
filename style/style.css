@@ -1,7 +1,8 @@
 body{
-	background-image:url(back5.jpg);
+	background-image:url(back10.jpg);
+	background-size:100%;
 	
-	color:white;
+	color:black;
 
 
 }
@@ -21,9 +22,21 @@ img{
 	font-weight:800;
 	font-size:20;
 	margin-top:-60;
+	margin-left:60;
+	margin-right:60;
 
 }
+.glory1{
+	text-align:center;
+	font-size:60;
 
+}
+.ama2{
+	margin-left:62;
+	font-size:20;
+	font-weight:700;
+}
 div{
 	background-color:black;
+	color:white;
 }
